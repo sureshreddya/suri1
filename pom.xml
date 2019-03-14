@@ -20,7 +20,7 @@
 		<dbunit.version>2.2</dbunit.version>
 	</properties>
 
-	<!-- <dependencies>
+	<dependencies>
 		<!-- Spring -->
 		<dependency>
 			<groupId>org.springframework</groupId>
@@ -72,7 +72,7 @@
 			<groupId>mysql</groupId>
 			<artifactId>mysql-connector-java</artifactId>
 			<version>${mysql.version}</version>
-		</dependency> -->   -->
+		</dependency>
 
       	<!-- Joda-Time -->		
 		<dependency>
